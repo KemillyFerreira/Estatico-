@@ -1,0 +1,13 @@
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Estaticos\bin\Debug\netcoreapp3.1\Estaticos.exe
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Estaticos\bin\Debug\netcoreapp3.1\Estaticos.deps.json
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Estaticos\bin\Debug\netcoreapp3.1\Estaticos.runtimeconfig.json
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Estaticos\bin\Debug\netcoreapp3.1\Estaticos.runtimeconfig.dev.json
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Estaticos\bin\Debug\netcoreapp3.1\Estaticos.dll
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Estaticos\bin\Debug\netcoreapp3.1\Estaticos.pdb
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Estaticos\obj\Debug\netcoreapp3.1\Estaticos.csprojAssemblyReference.cache
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Estaticos\obj\Debug\netcoreapp3.1\Estaticos.AssemblyInfoInputs.cache
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Estaticos\obj\Debug\netcoreapp3.1\Estaticos.AssemblyInfo.cs
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Estaticos\obj\Debug\netcoreapp3.1\Estaticos.csproj.CoreCompileInputs.cache
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Estaticos\obj\Debug\netcoreapp3.1\Estaticos.dll
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Estaticos\obj\Debug\netcoreapp3.1\Estaticos.pdb
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Estaticos\obj\Debug\netcoreapp3.1\Estaticos.genruntimeconfig.cache
